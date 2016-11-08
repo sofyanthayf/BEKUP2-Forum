@@ -1,0 +1,50 @@
+#forum 
+{
+	min-height: 700px;
+}
+
+.navbar-tracks
+{
+	font-weight: 700;
+	border: border-box;
+}
+
+.list-group-item
+{
+	padding: 0;
+}
+
+.infoposts
+{
+	width: 100%;
+	text-align: right;
+	font-size: smaller;
+	font-weight: normal;
+	color: #f00;
+}
+
+.listforum
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.dispnama
+{
+	font-weight: bolder;
+	font-size: larger;
+	text-align: right;
+}
+
+.disptgl
+{
+	color: #00f;
+	font-style: italic;
+	text-align: right;
+}
+
+.dispmess
+{
+	font-style: italic;
+	padding-bottom: 5px;
+}
