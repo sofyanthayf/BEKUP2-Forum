@@ -1,0 +1,39 @@
+{
+  "Members" : {
+    "1478484586694" : {
+      "email" : "sofyan.thayf@kharisma.ac.id",
+      "institusi" : "STMIK KHARISMA Makassar",
+      "kota" : "Makassar",
+      "nama" : "Sofyan Thayf",
+      "role" : 1,
+      "spesialisasi" : 4,
+      "status" : 1,
+      "token" : "LKJHGFDS",
+      "track" : 0
+    }
+  },
+  "Tracks" : {
+    "Mentor" : {
+      "1478484884764" : {
+        "member" : "BEKUP FORUM",
+        "pesan" : "New member ABCDEF registered and waiting for Mentor's approval"
+      }
+    },
+    "Publik" : {
+      "1478484816042" : {
+        "member" : "sofyan.thayf@kharisma.ac.id",
+        "pesan" : "Sample message",
+        "reply" : {
+          "1478484968049" : {
+            "member" : "sofyan.thayf@kharisma.ac.id",
+            "pesan" : "Reply message sample"
+          }
+        }
+      },
+      "1478485207261" : {
+        "member" : "sofyan.thayf@kharisma.ac.id",
+        "pesan" : "another sample message, with no reply yet"
+      }
+    }
+  }
+}
